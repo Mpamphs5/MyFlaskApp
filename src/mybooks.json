@@ -29,6 +29,10 @@
     "Genre" : "Novel"
    },
 
-
+   {
+      "Title" :"The Idiot",
+      "Author": "Findor Dostoyevski2",
+      "Genre" : "Novel"
+     }
  
 ]   
